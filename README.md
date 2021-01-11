@@ -27,6 +27,7 @@ mindset with the applications provided in this distro which could slowly replace
 applications.
 
 - [dwm](https://dwm.suckless.org) / [dwl](https://github.com/djpohly/dwl)
+  - look at [Swot](https://hg.sr.ht/~icefox/swot) for a rust implementation of [tinywl](https://github.com/swaywm/wlroots/blob/master/tinywl/tinywl.c)
 - [st](https://st.suckless.org)
 - [surf](https://surf.suckless.org)
   
