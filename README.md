@@ -7,24 +7,28 @@ Arch-base because it is bleeding edge and super lean by default.
 - **Editor:** NeoVim
 - **Package Manager:** Cargo (pacman will be available, just in case)
 - **Shell:** [ion](https://github.com/redox-os/ion)
+- **Browser:** [Servo](https://servo.org)
+- **Terminal Emulator:** [alacritty](https://github.com/alacritty/alacritty)
+- **Terminal Multiplexer:** [tab](https://crates.io/crates/tab)
 - git
 - lldb
-- rust-analyzer
-- rustup
-  - stable
-  - nightly
+- Rust toolchain:
+  - rust-analyzer
+  - rustup
+    - stable
+    - nightly
 
 ## Apps to Clone ##
 
 ### Suckless.org Clones ###
 Suckless has a great view of how to create applications: make them simple, small, and hackable. 
-All configuration is completed at compile-time, not runtime. 
+All configuration is completed at compile-time, not runtime. It might be fun to try to copy that 
+mindset with the applications provided in this distro which could slowly replace other default 
+applications.
 
 - [dwm](https://dwm.suckless.org) / [dwl](https://github.com/djpohly/dwl)
 - [st](https://st.suckless.org)
-  - Maybe just use [alacritty](https://github.com/alacritty/alacritty)
 - [surf](https://surf.suckless.org)
-  - Servo renderer (maybe the [Servo](https://servo.org) project would be sufficient in and of itself)
   
 ### Other Apps to Clone ###
 - (neo)vim editor
