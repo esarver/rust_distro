@@ -7,6 +7,9 @@ Arch-base because it is bleeding edge and super lean by default.
 - **Editor:** NeoVim
 - **Package Manager:** Cargo (pacman will be available, just in case)
 - **Shell:** [ion](https://github.com/redox-os/ion)
+- git
+- lldb
+- rust-analyzer
 - rustup
   - stable
   - nightly
