@@ -19,6 +19,7 @@ All configuration is completed at compile-time, not runtime.
 
 - [dwm](https://dwm.suckless.org) / [dwl](https://github.com/djpohly/dwl)
 - [st](https://st.suckless.org)
+  - Maybe just use [alacritty](https://github.com/alacritty/alacritty)
 - [surf](https://surf.suckless.org)
   - Servo renderer (maybe the [Servo](https://servo.org) project would be sufficient in and of itself)
   
