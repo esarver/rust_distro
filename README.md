@@ -28,6 +28,7 @@ applications.
 
 - [dwm](https://dwm.suckless.org) / [dwl](https://github.com/djpohly/dwl)
   - look at [Swot](https://hg.sr.ht/~icefox/swot) for a rust implementation of [tinywl](https://github.com/swaywm/wlroots/blob/master/tinywl/tinywl.c)
+  - A good [writeup about Swot](https://wiki.alopex.li/WritingAWaylandCompositorInRust)
 - [st](https://st.suckless.org)
 - [surf](https://surf.suckless.org)
   
