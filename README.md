@@ -26,3 +26,5 @@ All configuration is completed at compile-time, not runtime.
 ### Other Apps to Clone ###
 - (neo)vim editor
   - No vimscript support
+- tmux
+  - [tab](https://crates.io/crates/tab) looks like it might be promising and has a [how-to](https://implaustin.hashnode.dev/how-to-write-a-terminal-multiplexer-with-rust-async-and-actors-part-2) guide.
